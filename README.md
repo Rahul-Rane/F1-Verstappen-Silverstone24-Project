@@ -36,7 +36,8 @@ This project combines my technical skill set with my passion for Formula 1.
 
 📍 Based in the UK
 🎯 Data Analysis, BI, Machine Learning
-[RAHUL RANE](www.linkedin.com/in/rahulrane98)
+
+[RAHUL RANE](https://www.linkedin.com/in/rahulrane98/)
 
 
 ## 🧾 License
